@@ -43,5 +43,3 @@ $$
 #### Fluid vortices (curl) after 1000 timesteps
 ![vortex](./images/LatticeBoltzmann__400x100_1000_0.6_True_vortices.png "Fluid vortices (curl) after 1000 timesteps")
 
-## To execute
-In the terminal, go to the current directory
