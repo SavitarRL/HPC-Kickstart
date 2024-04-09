@@ -17,7 +17,7 @@ where $i$ is one of the 9 lattice directions
 
 Interestingly, moments of $f$ could be taken to recover fluid variables at each lattice sites, e.g. 
 
-- Density: $ \rho = \sum_i{F_i}$
+- Density: $\rho = \sum_i{F_i}$
 - momentum: $\rho \mathbf{u} = \sum_i{F_i\mathbf{v}_i}$
 
 
